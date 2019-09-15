@@ -10,6 +10,7 @@ Burning 灬 Xing
 
 ### 最新
 
+* [Nginx的安装](http://zyxwmj.top/articles/2019/09/14/1568467945137.html)
 * [部署SSM项目 提示java.io.FileNotFoundException: class path resource [spring-mvc.xml] cannot be opened because it does not exist异常](http://zyxwmj.top/articles/2019/09/13/1568344311025.html)
 
 
