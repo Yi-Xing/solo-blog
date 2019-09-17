@@ -10,6 +10,9 @@ Yi-Xing | Blog
 
 ### 最新
 
+* [Linux常用的命令](http://zyxwmj.top/articles/2019/09/16/1568642673331.html)
+* [MySQL的下载](http://zyxwmj.top/articles/2019/09/16/1568616480019.html)
+* [这些在我的收藏夹里吃灰的博客](http://zyxwmj.top/articles/2019/09/15/1568555315438.html)
 * [Docker的介绍、安装、卸载](http://zyxwmj.top/articles/2019/09/15/1568540312622.html)
 * [新的开始——程序人生](http://zyxwmj.top/articles/2019/09/15/1568519398125.html)
 * [Nginx的常用命令](http://zyxwmj.top/articles/2019/09/15/1568511483324.html)
