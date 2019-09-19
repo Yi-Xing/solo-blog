@@ -10,6 +10,7 @@ Yi-Xing | Blog
 
 ### 最新
 
+* [Linux中Redis的下载，启动，关闭，修改密码，外网访问](http://zyxwmj.top/articles/2019/09/18/1568791278084.html)
 * [Linux常用的命令](http://zyxwmj.top/articles/2019/09/16/1568642673331.html)
 * [MySQL的下载](http://zyxwmj.top/articles/2019/09/16/1568616480019.html)
 * [这些在我的收藏夹里吃灰的博客](http://zyxwmj.top/articles/2019/09/15/1568555315438.html)
