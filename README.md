@@ -10,6 +10,7 @@ Yi-Xing | Blog
 
 ### 最新
 
+* [Tomcat部署多个war包项目，以及jar包项目的部署](http://zyxwmj.top/articles/2019/09/20/1568968418136.html)
 * [Linux（Centos7.6）中下载MySQL](http://zyxwmj.top/articles/2019/09/20/1568940718608.html)
 * [Linux（Centos7.6）中下载Tomcat](http://zyxwmj.top/articles/2019/09/19/1568886350347.html)
 * [Linux（Centos7.6）中下载JDK](http://zyxwmj.top/articles/2019/09/19/1568884524004.html)
