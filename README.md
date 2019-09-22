@@ -10,15 +10,21 @@ Yi-Xing | Blog
 
 ### 最新
 
+* [付出终将有所收获——程序人生](http://zyxwmj.top/articles/2019/09/22/1569115969401.html)
 * [Tomcat部署多个war包项目，以及jar包项目的部署](http://zyxwmj.top/articles/2019/09/20/1568968418136.html)
+* [位运算——是不是2的整数次方（4）](http://zyxwmj.top/articles/2019/09/20/1568949466493.html)
+* [位运算——二进制中1的个数（3）](http://zyxwmj.top/articles/2019/09/20/1568949370506.html)
+* [位运算——找出落单的那个数（2）](http://zyxwmj.top/articles/2019/09/20/1568949052989.html)
+* [位运算——找出唯一成对的数（1）](http://zyxwmj.top/articles/2019/09/20/1568948854942.html)
 * [Linux（Centos7.6）中下载MySQL](http://zyxwmj.top/articles/2019/09/20/1568940718608.html)
+* [Java的按位运算与进制转换](http://zyxwmj.top/articles/2019/09/19/1568903092320.html)
 * [Linux（Centos7.6）中下载Tomcat](http://zyxwmj.top/articles/2019/09/19/1568886350347.html)
 * [Linux（Centos7.6）中下载JDK](http://zyxwmj.top/articles/2019/09/19/1568884524004.html)
 * [Linux（Centos7.6）中Redis的下载，启动，关闭，修改密码，外网访问](http://zyxwmj.top/articles/2019/09/18/1568791278084.html)
 * [Linux（Centos7.6）常用的命令](http://zyxwmj.top/articles/2019/09/16/1568642673331.html)
 * [Windows中下载MySQL](http://zyxwmj.top/articles/2019/09/16/1568616480019.html)
-* [这些在我的收藏夹里吃灰的博客](http://zyxwmj.top/articles/2019/09/15/1568555315438.html)
-* [Linux（Centos7.6）中Docker的介绍、安装、卸载](http://zyxwmj.top/articles/2019/09/15/1568540312622.html)
+* [那些在我的收藏夹里吃灰的博客](http://zyxwmj.top/articles/2019/09/15/1568555315438.html)
+* [Linux（Centos7.6）中Docker的介绍、安装、运行、挂载、卸载](http://zyxwmj.top/articles/2019/09/15/1568540312622.html)
 * [新的开始——程序人生](http://zyxwmj.top/articles/2019/09/15/1568519398125.html)
 * [Nginx的常用命令](http://zyxwmj.top/articles/2019/09/15/1568511483324.html)
 * [Nginx的nginx.conf文件的配置](http://zyxwmj.top/articles/2019/09/14/1568470865684.html)
