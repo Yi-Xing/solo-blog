@@ -12,6 +12,9 @@ Yi-Xing | Blog
 
 * [付出终将有所收获——程序人生](http://zyxwmj.top/articles/2019/09/22/1569115969401.html)
 * [Tomcat部署多个war包项目，以及jar包项目的部署](http://zyxwmj.top/articles/2019/09/20/1568968418136.html)
+* [位运算——出现K次与出现1次（7）](http://zyxwmj.top/articles/2019/09/20/1568949925274.html)
+* [位运算——0~1间浮点实数的二进制表示（6）](http://zyxwmj.top/articles/2019/09/20/1568949831331.html)
+* [位运算——将整数二进制的奇偶位互换（5）](http://zyxwmj.top/articles/2019/09/20/1568949600235.html)
 * [位运算——是不是2的整数次方（4）](http://zyxwmj.top/articles/2019/09/20/1568949466493.html)
 * [位运算——二进制中1的个数（3）](http://zyxwmj.top/articles/2019/09/20/1568949370506.html)
 * [位运算——找出落单的那个数（2）](http://zyxwmj.top/articles/2019/09/20/1568949052989.html)
@@ -27,9 +30,12 @@ Yi-Xing | Blog
 * [Linux（Centos7.6）中Docker的介绍、安装、运行、挂载、卸载](http://zyxwmj.top/articles/2019/09/15/1568540312622.html)
 * [新的开始——程序人生](http://zyxwmj.top/articles/2019/09/15/1568519398125.html)
 * [Nginx的常用命令](http://zyxwmj.top/articles/2019/09/15/1568511483324.html)
-* [Nginx的nginx.conf文件的配置](http://zyxwmj.top/articles/2019/09/14/1568470865684.html)
-* [Linux（Centos7.6）中Nginx的安装、启动、关闭、卸载](http://zyxwmj.top/articles/2019/09/14/1568467945137.html)
+
+### 热门
+
 * [部署SSM项目 提示java.io.FileNotFoundException: class path resource [spring-mvc.xml] cannot be opened because it does not exist异常](http://zyxwmj.top/articles/2019/09/13/1568344311025.html)
+* [Linux（Centos7.6）中Nginx的安装、启动、关闭、卸载](http://zyxwmj.top/articles/2019/09/14/1568467945137.html)
+* [Nginx的nginx.conf文件的配置](http://zyxwmj.top/articles/2019/09/14/1568470865684.html)
 
 
 
