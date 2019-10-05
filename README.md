@@ -35,12 +35,12 @@ Yi-Xing | Blog
 
 * [那些在我的收藏夹里吃灰的博客](http://zyxwmj.top/articles/2019/09/15/1568555315438.html)
 * [部署SSM项目 提示java.io.FileNotFoundException: class path resource [spring-mvc.xml] cannot be opened because it does not exist异常](http://zyxwmj.top/articles/2019/09/13/1568344311025.html)
-* [新的开始——程序人生](http://zyxwmj.top/articles/2019/09/15/1568519398125.html)
 * [Linux（Centos7.6）中Nginx的安装、启动、关闭、卸载](http://zyxwmj.top/articles/2019/09/14/1568467945137.html)
-* [Linux（Centos7.6）中Docker的介绍、安装、运行、挂载、卸载](http://zyxwmj.top/articles/2019/09/15/1568540312622.html)
+* [新的开始——程序人生](http://zyxwmj.top/articles/2019/09/15/1568519398125.html)
 * [Nginx的nginx.conf文件的配置](http://zyxwmj.top/articles/2019/09/14/1568470865684.html)
-* [Windows中下载MySQL](http://zyxwmj.top/articles/2019/09/16/1568616480019.html)
+* [Linux（Centos7.6）中Docker的介绍、安装、运行、挂载、卸载](http://zyxwmj.top/articles/2019/09/15/1568540312622.html)
 * [Nginx的常用命令](http://zyxwmj.top/articles/2019/09/15/1568511483324.html)
+* [Windows中下载MySQL](http://zyxwmj.top/articles/2019/09/16/1568616480019.html)
 
 
 
