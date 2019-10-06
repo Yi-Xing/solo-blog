@@ -10,6 +10,8 @@ Yi-Xing | Blog
 
 ### 最新
 
+* [leetcode——728. 自除数（简单）](http://zyxwmj.top/articles/2019/10/05/1570261044920.html)
+* [使用Python的爬虫下载小说（斗破苍穹）](http://zyxwmj.top/articles/2019/10/05/1570247153965.html)
 * [递归——基础练习](http://zyxwmj.top/articles/2019/10/02/1569986475294.html)
 * [懒惰散漫——程序人生](http://zyxwmj.top/articles/2019/09/29/1569766340571.html)
 * [位运算——使用位运算实现整数的四则运算（8）](http://zyxwmj.top/articles/2019/09/28/1569642665346.html)
@@ -28,8 +30,6 @@ Yi-Xing | Blog
 * [Java的按位运算与进制转换](http://zyxwmj.top/articles/2019/09/19/1568903092320.html)
 * [Linux（Centos7.6）中下载Tomcat](http://zyxwmj.top/articles/2019/09/19/1568886350347.html)
 * [Linux（Centos7.6）中下载JDK](http://zyxwmj.top/articles/2019/09/19/1568884524004.html)
-* [Linux（Centos7.6）中Redis的下载，启动，关闭，修改密码，外网访问](http://zyxwmj.top/articles/2019/09/18/1568791278084.html)
-* [Linux（Centos7.6）常用的命令](http://zyxwmj.top/articles/2019/09/16/1568642673331.html)
 
 ### 热门
 
@@ -39,8 +39,10 @@ Yi-Xing | Blog
 * [新的开始——程序人生](http://zyxwmj.top/articles/2019/09/15/1568519398125.html)
 * [Nginx的nginx.conf文件的配置](http://zyxwmj.top/articles/2019/09/14/1568470865684.html)
 * [Linux（Centos7.6）中Docker的介绍、安装、运行、挂载、卸载](http://zyxwmj.top/articles/2019/09/15/1568540312622.html)
+* [Linux（Centos7.6）常用的命令](http://zyxwmj.top/articles/2019/09/16/1568642673331.html)
 * [Nginx的常用命令](http://zyxwmj.top/articles/2019/09/15/1568511483324.html)
 * [Windows中下载MySQL](http://zyxwmj.top/articles/2019/09/16/1568616480019.html)
+* [Linux（Centos7.6）中Redis的下载，启动，关闭，修改密码，外网访问](http://zyxwmj.top/articles/2019/09/18/1568791278084.html)
 
 
 
