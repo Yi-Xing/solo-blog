@@ -10,7 +10,8 @@ Yi-Xing | Blog
 
 ### 最新
 
-* [MySQL的数据查询语言（DQL）以及运算符和通配符](http://zyxwmj.top/articles/2019/10/07/1570442512413.html)
+* [MySQL中的函数](http://zyxwmj.top/articles/2019/10/07/1570459294550.html)
+* [MySQL的简单查询以及运算符和通配符](http://zyxwmj.top/articles/2019/10/07/1570442512413.html)
 * [常见的HTTP状态码](http://zyxwmj.top/articles/2019/10/07/1570419554251.html)
 * [MySQL的介绍](http://zyxwmj.top/articles/2019/10/07/1570418776092.html)
 * [算法——目录](http://zyxwmj.top/articles/2019/10/07/1570409752516.html)
@@ -29,7 +30,6 @@ Yi-Xing | Blog
 * [Tomcat部署多个war包项目，以及jar包项目的部署](http://zyxwmj.top/articles/2019/09/20/1568968418136.html)
 * [位运算——出现K次与出现1次（7）](http://zyxwmj.top/articles/2019/09/20/1568949925274.html)
 * [位运算——0~1间浮点实数的二进制表示（6）](http://zyxwmj.top/articles/2019/09/20/1568949831331.html)
-* [位运算——将整数二进制的奇偶位互换（5）](http://zyxwmj.top/articles/2019/09/20/1568949600235.html)
 
 ### 热门
 
@@ -41,14 +41,15 @@ Yi-Xing | Blog
 * [Linux（Centos7.6）中下载MySQL](http://zyxwmj.top/articles/2019/09/20/1568940718608.html)
 * [Nginx的nginx.conf文件的配置](http://zyxwmj.top/articles/2019/09/14/1568470865684.html)
 * [Linux（Centos7.6）中Docker的介绍、安装、运行、挂载、卸载](http://zyxwmj.top/articles/2019/09/15/1568540312622.html)
-* [Linux（Centos7.6）常用的命令](http://zyxwmj.top/articles/2019/09/16/1568642673331.html)
 * [Java的按位运算与进制转换](http://zyxwmj.top/articles/2019/09/19/1568903092320.html)
-* [位运算——找出落单的那个数（2）](http://zyxwmj.top/articles/2019/09/20/1568949052989.html)
+* [Linux（Centos7.6）常用的命令](http://zyxwmj.top/articles/2019/09/16/1568642673331.html)
 * [Linux（Centos7.6）中下载JDK](http://zyxwmj.top/articles/2019/09/19/1568884524004.html)
+* [位运算——找出落单的那个数（2）](http://zyxwmj.top/articles/2019/09/20/1568949052989.html)
 * [Windows中下载MySQL](http://zyxwmj.top/articles/2019/09/16/1568616480019.html)
 * [Nginx的常用命令](http://zyxwmj.top/articles/2019/09/15/1568511483324.html)
 * [Linux（Centos7.6）中Redis的下载，启动，关闭，修改密码，外网访问](http://zyxwmj.top/articles/2019/09/18/1568791278084.html)
 * [Linux（Centos7.6）中下载Tomcat](http://zyxwmj.top/articles/2019/09/19/1568886350347.html)
+* [位运算——将整数二进制的奇偶位互换（5）](http://zyxwmj.top/articles/2019/09/20/1568949600235.html)
 * [位运算——二进制中1的个数（3）](http://zyxwmj.top/articles/2019/09/20/1568949370506.html)
 * [位运算——是不是2的整数次方（4）](http://zyxwmj.top/articles/2019/09/20/1568949466493.html)
 
