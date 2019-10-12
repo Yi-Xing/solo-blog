@@ -10,6 +10,8 @@ Yi-Xing | Blog
 
 ### 最新
 
+* [MySQL中的约束](http://zyxwmj.top/articles/2019/10/11/1570765410925.html)
+* [MySQL中的数据类型](http://zyxwmj.top/articles/2019/10/11/1570760300318.html)
 * [MySQL中对数据库和表的操作](http://zyxwmj.top/articles/2019/10/10/1570717486901.html)
 * [MySQL中的分页查询和联合查询以及数据的添加、更新、删除](http://zyxwmj.top/articles/2019/10/09/1570632274905.html)
 * [MySQL中的子查询](http://zyxwmj.top/articles/2019/10/09/1570623943771.html)
@@ -28,8 +30,6 @@ Yi-Xing | Blog
 * [递归——基础练习](http://zyxwmj.top/articles/2019/10/02/1569986475294.html)
 * [懒惰散漫——程序人生](http://zyxwmj.top/articles/2019/09/29/1569766340571.html)
 * [位运算——使用位运算实现整数的四则运算（8）](http://zyxwmj.top/articles/2019/09/28/1569642665346.html)
-* [大学物理——力学（仅自己可见）](http://zyxwmj.top/articles/2019/09/26/1569507331521.html)
-* [辅助开发的在线工具](http://zyxwmj.top/articles/2019/09/26/1569491501344.html)
 
 ### 热门
 
@@ -39,8 +39,8 @@ Yi-Xing | Blog
 * [部署SSM项目 提示java.io.FileNotFoundException: class path resource [spring-mvc.xml] cannot be opened because it does not exist异常](http://zyxwmj.top/articles/2019/09/13/1568344311025.html)
 * [Linux（Centos7.6）中Nginx的安装、启动、关闭、卸载](http://zyxwmj.top/articles/2019/09/14/1568467945137.html)
 * [Linux（Centos7.6）中下载MySQL](http://zyxwmj.top/articles/2019/09/20/1568940718608.html)
-* [Nginx的nginx.conf文件的配置](http://zyxwmj.top/articles/2019/09/14/1568470865684.html)
 * [Nginx的常用命令](http://zyxwmj.top/articles/2019/09/15/1568511483324.html)
+* [Nginx的nginx.conf文件的配置](http://zyxwmj.top/articles/2019/09/14/1568470865684.html)
 * [Java的按位运算与进制转换](http://zyxwmj.top/articles/2019/09/19/1568903092320.html)
 * [位运算——出现K次与出现1次（7）](http://zyxwmj.top/articles/2019/09/20/1568949925274.html)
 * [Linux（Centos7.6）中Docker的介绍、安装、运行、挂载、卸载](http://zyxwmj.top/articles/2019/09/15/1568540312622.html)
@@ -56,6 +56,8 @@ Yi-Xing | Blog
 
 ### 热议
 
+* [辅助开发的在线工具](http://zyxwmj.top/articles/2019/09/26/1569491501344.html)
+* [大学物理——力学（仅自己可见）](http://zyxwmj.top/articles/2019/09/26/1569507331521.html)
 * [ideal的常用快捷键](http://zyxwmj.top/articles/2019/09/26/1569490508934.html)
 * [位运算——是不是2的整数次方（4）](http://zyxwmj.top/articles/2019/09/20/1568949466493.html)
 * [位运算——0~1间浮点实数的二进制表示（6）](http://zyxwmj.top/articles/2019/09/20/1568949831331.html)
