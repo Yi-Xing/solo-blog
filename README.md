@@ -10,6 +10,8 @@ Yi-Xing | Blog
 
 ### 最新
 
+* [leetcode——495. 提莫攻击（中等）](http://zyxwmj.top/articles/2019/10/12/1570870630738.html)
+* [MySQL中的事务](http://zyxwmj.top/articles/2019/10/12/1570844512437.html)
 * [MySQL中的约束](http://zyxwmj.top/articles/2019/10/11/1570765410925.html)
 * [MySQL中的数据类型](http://zyxwmj.top/articles/2019/10/11/1570760300318.html)
 * [MySQL中对数据库和表的操作](http://zyxwmj.top/articles/2019/10/10/1570717486901.html)
@@ -28,8 +30,6 @@ Yi-Xing | Blog
 * [使用Python的爬虫下载小说（斗破苍穹）](http://zyxwmj.top/articles/2019/10/05/1570247153965.html)
 * [Python的基础语法](http://zyxwmj.top/articles/2019/10/02/1570025762214.html)
 * [递归——基础练习](http://zyxwmj.top/articles/2019/10/02/1569986475294.html)
-* [懒惰散漫——程序人生](http://zyxwmj.top/articles/2019/09/29/1569766340571.html)
-* [位运算——使用位运算实现整数的四则运算（8）](http://zyxwmj.top/articles/2019/09/28/1569642665346.html)
 
 ### 热门
 
@@ -47,21 +47,23 @@ Yi-Xing | Blog
 * [Linux（Centos7.6）中下载JDK](http://zyxwmj.top/articles/2019/09/19/1568884524004.html)
 * [Linux（Centos7.6）常用的命令](http://zyxwmj.top/articles/2019/09/16/1568642673331.html)
 * [位运算——找出落单的那个数（2）](http://zyxwmj.top/articles/2019/09/20/1568949052989.html)
-* [付出终将有所收获——程序人生](http://zyxwmj.top/articles/2019/09/22/1569115969401.html)
 * [Windows中下载MySQL](http://zyxwmj.top/articles/2019/09/16/1568616480019.html)
+* [付出终将有所收获——程序人生](http://zyxwmj.top/articles/2019/09/22/1569115969401.html)
+* [懒惰散漫——程序人生](http://zyxwmj.top/articles/2019/09/29/1569766340571.html)
 * [Linux（Centos7.6）中Redis的下载，启动，关闭，修改密码，外网访问](http://zyxwmj.top/articles/2019/09/18/1568791278084.html)
 * [Linux（Centos7.6）中下载Tomcat](http://zyxwmj.top/articles/2019/09/19/1568886350347.html)
 * [位运算——将整数二进制的奇偶位互换（5）](http://zyxwmj.top/articles/2019/09/20/1568949600235.html)
-* [位运算——二进制中1的个数（3）](http://zyxwmj.top/articles/2019/09/20/1568949370506.html)
 
 ### 热议
 
-* [辅助开发的在线工具](http://zyxwmj.top/articles/2019/09/26/1569491501344.html)
 * [大学物理——力学（仅自己可见）](http://zyxwmj.top/articles/2019/09/26/1569507331521.html)
-* [ideal的常用快捷键](http://zyxwmj.top/articles/2019/09/26/1569490508934.html)
+* [位运算——使用位运算实现整数的四则运算（8）](http://zyxwmj.top/articles/2019/09/28/1569642665346.html)
+* [辅助开发的在线工具](http://zyxwmj.top/articles/2019/09/26/1569491501344.html)
+* [位运算——二进制中1的个数（3）](http://zyxwmj.top/articles/2019/09/20/1568949370506.html)
 * [位运算——是不是2的整数次方（4）](http://zyxwmj.top/articles/2019/09/20/1568949466493.html)
 * [位运算——0~1间浮点实数的二进制表示（6）](http://zyxwmj.top/articles/2019/09/20/1568949831331.html)
 * [Tomcat部署多个war包项目，以及jar包项目的部署](http://zyxwmj.top/articles/2019/09/20/1568968418136.html)
+* [ideal的常用快捷键](http://zyxwmj.top/articles/2019/09/26/1569490508934.html)
 
 ---
 
