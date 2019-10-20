@@ -10,6 +10,7 @@ Yi-Xing | Blog
 
 ### 最新
 
+* [知道的越多，不会的也就越多——程序人生](http://zyxwmj.top/articles/2019/10/20/1571562421540.html)
 * [MySQL索引优化——Explain的应用](http://zyxwmj.top/articles/2019/10/16/1571211764479.html)
 * [MySQL中的索引及索引的优化](http://zyxwmj.top/articles/2019/10/16/1571194625812.html)
 * [MySQL中的分页查询和联合查询](http://zyxwmj.top/articles/2019/10/15/1571130817223.html)
@@ -29,7 +30,6 @@ Yi-Xing | Blog
 * [MySQL中的分组查询](http://zyxwmj.top/articles/2019/10/08/1570521176176.html)
 * [MySQL中的函数](http://zyxwmj.top/articles/2019/10/07/1570459294550.html)
 * [MySQL中的简单查询以及运算符和通配符](http://zyxwmj.top/articles/2019/10/07/1570442512413.html)
-* [常见的HTTP状态码](http://zyxwmj.top/articles/2019/10/07/1570419554251.html)
 
 ### 热门
 
@@ -56,13 +56,14 @@ Yi-Xing | Blog
 
 ### 热议
 
-* [Python的基础语法](http://zyxwmj.top/articles/2019/10/02/1570025762214.html)
 * [leetcode——728. 自除数（简单）](http://zyxwmj.top/articles/2019/10/05/1570261044920.html)
 * [写爬虫一时爽，一直写爬虫一直爽——程序人生](http://zyxwmj.top/articles/2019/10/06/1570329733745.html)
 * [爬虫（仅自己可见）](http://zyxwmj.top/articles/2019/10/06/1570331508141.html)
 * [算法——目录](http://zyxwmj.top/articles/2019/10/07/1570409752516.html)
 * [MySQL的介绍和基本应用](http://zyxwmj.top/articles/2019/10/07/1570418776092.html)
+* [常见的HTTP状态码](http://zyxwmj.top/articles/2019/10/07/1570419554251.html)
 * [递归——基础练习](http://zyxwmj.top/articles/2019/10/02/1569986475294.html)
+* [Python的基础语法](http://zyxwmj.top/articles/2019/10/02/1570025762214.html)
 * [位运算——二进制中1的个数（3）](http://zyxwmj.top/articles/2019/09/20/1568949370506.html)
 * [位运算——是不是2的整数次方（4）](http://zyxwmj.top/articles/2019/09/20/1568949466493.html)
 * [位运算——将整数二进制的奇偶位互换（5）](http://zyxwmj.top/articles/2019/09/20/1568949600235.html)
