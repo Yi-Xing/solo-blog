@@ -10,7 +10,6 @@ Yi-Xing | Blog
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://zyxwmj.top/my-github-repos)
 * [正则表达式](http://zyxwmj.top/articles/2019/10/24/1571886568190.html)
 * [Java中泛型的应用](http://zyxwmj.top/articles/2019/10/24/1571882926981.html)
 * [知道的越多，不会的也就越多——程序人生](http://zyxwmj.top/articles/2019/10/20/1571562421540.html)
@@ -30,6 +29,7 @@ Yi-Xing | Blog
 * [MySQL中数据的添加、更新、删除](http://zyxwmj.top/articles/2019/10/09/1570632274905.html)
 * [MySQL中的子查询](http://zyxwmj.top/articles/2019/10/09/1570623943771.html)
 * [MySQL中的连接查询](http://zyxwmj.top/articles/2019/10/09/1570615626823.html)
+* [MySQL中的分组查询](http://zyxwmj.top/articles/2019/10/08/1570521176176.html)
 
 ### 热门
 
@@ -64,7 +64,7 @@ Yi-Xing | Blog
 * [常见的HTTP状态码](http://zyxwmj.top/articles/2019/10/07/1570419554251.html)
 * [MySQL中的简单查询以及运算符和通配符](http://zyxwmj.top/articles/2019/10/07/1570442512413.html)
 * [MySQL中的函数](http://zyxwmj.top/articles/2019/10/07/1570459294550.html)
-* [MySQL中的分组查询](http://zyxwmj.top/articles/2019/10/08/1570521176176.html)
+* [Python的基础语法](http://zyxwmj.top/articles/2019/10/02/1570025762214.html)
 * [位运算——二进制中1的个数（3）](http://zyxwmj.top/articles/2019/09/20/1568949370506.html)
 * [位运算——是不是2的整数次方（4）](http://zyxwmj.top/articles/2019/09/20/1568949466493.html)
 * [位运算——将整数二进制的奇偶位互换（5）](http://zyxwmj.top/articles/2019/09/20/1568949600235.html)
@@ -75,7 +75,6 @@ Yi-Xing | Blog
 * [大学物理——力学（仅自己可见）](http://zyxwmj.top/articles/2019/09/26/1569507331521.html)
 * [位运算——使用位运算实现整数的四则运算（8）](http://zyxwmj.top/articles/2019/09/28/1569642665346.html)
 * [递归——基础练习](http://zyxwmj.top/articles/2019/10/02/1569986475294.html)
-* [Python的基础语法](http://zyxwmj.top/articles/2019/10/02/1570025762214.html)
 
 ---
 
