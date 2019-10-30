@@ -12,7 +12,9 @@ Yi-Xing | Blog
 
 * [查漏补缺——程序人生](http://zyxwmj.top/articles/2019/10/27/1572170802759.html)
 * [Java中的正则表达式](http://zyxwmj.top/articles/2019/10/24/1571926946969.html)
+* [Java中的内部类](http://zyxwmj.top/articles/2019/10/24/1571926812469.html)
 * [正则表达式](http://zyxwmj.top/articles/2019/10/24/1571886568190.html)
+* [Java中枚举的应用](http://zyxwmj.top/articles/2019/10/24/1571883525662.html)
 * [Java中泛型的应用](http://zyxwmj.top/articles/2019/10/24/1571882926981.html)
 * [知道的越多，不会的也就越多——程序人生](http://zyxwmj.top/articles/2019/10/20/1571562421540.html)
 * [MySQL索引优化——Explain的应用](http://zyxwmj.top/articles/2019/10/16/1571211764479.html)
@@ -28,8 +30,6 @@ Yi-Xing | Blog
 * [MySQL中的约束](http://zyxwmj.top/articles/2019/10/11/1570765410925.html)
 * [MySQL中的数据类型](http://zyxwmj.top/articles/2019/10/11/1570760300318.html)
 * [MySQL中对数据库和表的操作](http://zyxwmj.top/articles/2019/10/10/1570717486901.html)
-* [MySQL中数据的添加、更新、删除](http://zyxwmj.top/articles/2019/10/09/1570632274905.html)
-* [MySQL中的子查询](http://zyxwmj.top/articles/2019/10/09/1570623943771.html)
 
 ### 热门
 
@@ -65,6 +65,8 @@ Yi-Xing | Blog
 * [MySQL中的函数](http://zyxwmj.top/articles/2019/10/07/1570459294550.html)
 * [MySQL中的分组查询](http://zyxwmj.top/articles/2019/10/08/1570521176176.html)
 * [MySQL中的连接查询](http://zyxwmj.top/articles/2019/10/09/1570615626823.html)
+* [MySQL中的子查询](http://zyxwmj.top/articles/2019/10/09/1570623943771.html)
+* [MySQL中数据的添加、更新、删除](http://zyxwmj.top/articles/2019/10/09/1570632274905.html)
 * [位运算——二进制中1的个数（3）](http://zyxwmj.top/articles/2019/09/20/1568949370506.html)
 * [leetcode——728. 自除数（简单）](http://zyxwmj.top/articles/2019/10/05/1570261044920.html)
 * [位运算——是不是2的整数次方（4）](http://zyxwmj.top/articles/2019/09/20/1568949466493.html)
@@ -74,8 +76,6 @@ Yi-Xing | Blog
 * [ideal的常用快捷键](http://zyxwmj.top/articles/2019/09/26/1569490508934.html)
 * [辅助开发的在线工具以及图片资源](http://zyxwmj.top/articles/2019/09/26/1569491501344.html)
 * [大学物理——力学（仅自己可见）](http://zyxwmj.top/articles/2019/09/26/1569507331521.html)
-* [位运算——使用位运算实现整数的四则运算（8）](http://zyxwmj.top/articles/2019/09/28/1569642665346.html)
-* [递归——基础练习](http://zyxwmj.top/articles/2019/10/02/1569986475294.html)
 
 ---
 
