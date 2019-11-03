@@ -10,6 +10,7 @@ Yi-Xing | Blog
 
 ### 最新
 
+* [重学Maven——POM配置](http://zyxwmj.top/articles/2019/11/02/1572665261880.html)
 * [查漏补缺——程序人生](http://zyxwmj.top/articles/2019/10/27/1572170802759.html)
 * [Java中的正则表达式](http://zyxwmj.top/articles/2019/10/24/1571926946969.html)
 * [Java中的内部类](http://zyxwmj.top/articles/2019/10/24/1571926812469.html)
@@ -29,7 +30,6 @@ Yi-Xing | Blog
 * [MySQL中的事务](http://zyxwmj.top/articles/2019/10/12/1570844512437.html)
 * [MySQL中的约束](http://zyxwmj.top/articles/2019/10/11/1570765410925.html)
 * [MySQL中的数据类型](http://zyxwmj.top/articles/2019/10/11/1570760300318.html)
-* [MySQL中对数据库和表的操作](http://zyxwmj.top/articles/2019/10/10/1570717486901.html)
 
 ### 热门
 
@@ -67,6 +67,7 @@ Yi-Xing | Blog
 * [MySQL中的连接查询](http://zyxwmj.top/articles/2019/10/09/1570615626823.html)
 * [MySQL中的子查询](http://zyxwmj.top/articles/2019/10/09/1570623943771.html)
 * [MySQL中数据的添加、更新、删除](http://zyxwmj.top/articles/2019/10/09/1570632274905.html)
+* [MySQL中对数据库和表的操作](http://zyxwmj.top/articles/2019/10/10/1570717486901.html)
 * [位运算——二进制中1的个数（3）](http://zyxwmj.top/articles/2019/09/20/1568949370506.html)
 * [leetcode——728. 自除数（简单）](http://zyxwmj.top/articles/2019/10/05/1570261044920.html)
 * [位运算——是不是2的整数次方（4）](http://zyxwmj.top/articles/2019/09/20/1568949466493.html)
@@ -75,7 +76,6 @@ Yi-Xing | Blog
 * [Tomcat部署多个war包项目，以及jar包项目的部署](http://zyxwmj.top/articles/2019/09/20/1568968418136.html)
 * [ideal的常用快捷键](http://zyxwmj.top/articles/2019/09/26/1569490508934.html)
 * [辅助开发的在线工具以及图片资源](http://zyxwmj.top/articles/2019/09/26/1569491501344.html)
-* [大学物理——力学（仅自己可见）](http://zyxwmj.top/articles/2019/09/26/1569507331521.html)
 
 ---
 
