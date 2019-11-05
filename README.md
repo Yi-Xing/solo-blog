@@ -12,6 +12,7 @@ Yi-Xing | Blog
 
 * [花有重开日，人无再少年——程序人生](http://zyxwmj.top/articles/2019/11/03/1572789026683.html)
 * [重学Maven——POM配置](http://zyxwmj.top/articles/2019/11/02/1572665261880.html)
+* [重学Maven——总结](http://zyxwmj.top/articles/2019/11/01/1572579880188.html)
 * [查漏补缺——程序人生](http://zyxwmj.top/articles/2019/10/27/1572170802759.html)
 * [Java中的正则表达式](http://zyxwmj.top/articles/2019/10/24/1571926946969.html)
 * [Java中的内部类](http://zyxwmj.top/articles/2019/10/24/1571926812469.html)
@@ -29,7 +30,6 @@ Yi-Xing | Blog
 * [MySQL中的视图和变量](http://zyxwmj.top/articles/2019/10/13/1570933069509.html)
 * [leetcode——495. 提莫攻击（中等）](http://zyxwmj.top/articles/2019/10/12/1570870630738.html)
 * [MySQL中的事务](http://zyxwmj.top/articles/2019/10/12/1570844512437.html)
-* [MySQL中的约束](http://zyxwmj.top/articles/2019/10/11/1570765410925.html)
 
 ### 热门
 
@@ -46,8 +46,8 @@ Yi-Xing | Blog
 * [Java的按位运算与进制转换](http://zyxwmj.top/articles/2019/09/19/1568903092320.html)
 * [位运算——出现K次与出现1次（7）](http://zyxwmj.top/articles/2019/09/20/1568949925274.html)
 * [Linux（Centos7.6）中下载JDK](http://zyxwmj.top/articles/2019/09/19/1568884524004.html)
-* [位运算——找出落单的那个数（2）](http://zyxwmj.top/articles/2019/09/20/1568949052989.html)
 * [Linux（Centos7.6）常用的命令](http://zyxwmj.top/articles/2019/09/16/1568642673331.html)
+* [位运算——找出落单的那个数（2）](http://zyxwmj.top/articles/2019/09/20/1568949052989.html)
 * [Linux（Centos7.6）中下载Tomcat](http://zyxwmj.top/articles/2019/09/19/1568886350347.html)
 * [付出终将有所收获——程序人生](http://zyxwmj.top/articles/2019/09/22/1569115969401.html)
 * [Windows中下载MySQL](http://zyxwmj.top/articles/2019/09/16/1568616480019.html)
@@ -69,13 +69,13 @@ Yi-Xing | Blog
 * [MySQL中数据的添加、更新、删除](http://zyxwmj.top/articles/2019/10/09/1570632274905.html)
 * [MySQL中对数据库和表的操作](http://zyxwmj.top/articles/2019/10/10/1570717486901.html)
 * [MySQL中的数据类型](http://zyxwmj.top/articles/2019/10/11/1570760300318.html)
+* [MySQL中的约束](http://zyxwmj.top/articles/2019/10/11/1570765410925.html)
 * [位运算——二进制中1的个数（3）](http://zyxwmj.top/articles/2019/09/20/1568949370506.html)
 * [leetcode——728. 自除数（简单）](http://zyxwmj.top/articles/2019/10/05/1570261044920.html)
 * [位运算——是不是2的整数次方（4）](http://zyxwmj.top/articles/2019/09/20/1568949466493.html)
 * [位运算——将整数二进制的奇偶位互换（5）](http://zyxwmj.top/articles/2019/09/20/1568949600235.html)
 * [位运算——0~1间浮点实数的二进制表示（6）](http://zyxwmj.top/articles/2019/09/20/1568949831331.html)
 * [Tomcat部署多个war包项目，以及jar包项目的部署](http://zyxwmj.top/articles/2019/09/20/1568968418136.html)
-* [ideal的常用快捷键](http://zyxwmj.top/articles/2019/09/26/1569490508934.html)
 
 ---
 
