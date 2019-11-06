@@ -10,8 +10,9 @@ Yi-Xing | Blog
 
 ### 最新
 
+* [重学Maven—— settings.xml 的配置](http://zyxwmj.top/articles/2019/11/06/1573018143484.html)
 * [花有重开日，人无再少年——程序人生](http://zyxwmj.top/articles/2019/11/03/1572789026683.html)
-* [重学Maven——POM配置](http://zyxwmj.top/articles/2019/11/02/1572665261880.html)
+* [重学Maven——pom.xml 的配置](http://zyxwmj.top/articles/2019/11/02/1572665261880.html)
 * [重学Maven——总结](http://zyxwmj.top/articles/2019/11/01/1572579880188.html)
 * [查漏补缺——程序人生](http://zyxwmj.top/articles/2019/10/27/1572170802759.html)
 * [Java中的正则表达式](http://zyxwmj.top/articles/2019/10/24/1571926946969.html)
@@ -29,7 +30,6 @@ Yi-Xing | Blog
 * [立志要如山,行道要如水——程序人生](http://zyxwmj.top/articles/2019/10/13/1570937330509.html)
 * [MySQL中的视图和变量](http://zyxwmj.top/articles/2019/10/13/1570933069509.html)
 * [leetcode——495. 提莫攻击（中等）](http://zyxwmj.top/articles/2019/10/12/1570870630738.html)
-* [MySQL中的事务](http://zyxwmj.top/articles/2019/10/12/1570844512437.html)
 
 ### 热门
 
@@ -70,12 +70,12 @@ Yi-Xing | Blog
 * [MySQL中对数据库和表的操作](http://zyxwmj.top/articles/2019/10/10/1570717486901.html)
 * [MySQL中的数据类型](http://zyxwmj.top/articles/2019/10/11/1570760300318.html)
 * [MySQL中的约束](http://zyxwmj.top/articles/2019/10/11/1570765410925.html)
+* [MySQL中的事务](http://zyxwmj.top/articles/2019/10/12/1570844512437.html)
 * [位运算——二进制中1的个数（3）](http://zyxwmj.top/articles/2019/09/20/1568949370506.html)
 * [leetcode——728. 自除数（简单）](http://zyxwmj.top/articles/2019/10/05/1570261044920.html)
 * [位运算——是不是2的整数次方（4）](http://zyxwmj.top/articles/2019/09/20/1568949466493.html)
 * [位运算——将整数二进制的奇偶位互换（5）](http://zyxwmj.top/articles/2019/09/20/1568949600235.html)
 * [位运算——0~1间浮点实数的二进制表示（6）](http://zyxwmj.top/articles/2019/09/20/1568949831331.html)
-* [Tomcat部署多个war包项目，以及jar包项目的部署](http://zyxwmj.top/articles/2019/09/20/1568968418136.html)
 
 ---
 
