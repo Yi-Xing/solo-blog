@@ -48,11 +48,11 @@ Yi-Xing | Blog
 * [Linux（Centos7.6）常用的命令](http://zyxwmj.top/articles/2019/09/16/1568642673331.html)
 * [Linux（Centos7.6）中下载JDK](http://zyxwmj.top/articles/2019/09/19/1568884524004.html)
 * [位运算——找出落单的那个数（2）](http://zyxwmj.top/articles/2019/09/20/1568949052989.html)
+* [Linux（Centos7.6）中下载Tomcat](http://zyxwmj.top/articles/2019/09/19/1568886350347.html)
 * [付出终将有所收获——程序人生](http://zyxwmj.top/articles/2019/09/22/1569115969401.html)
 * [Windows中下载MySQL](http://zyxwmj.top/articles/2019/09/16/1568616480019.html)
 * [懒惰散漫——程序人生](http://zyxwmj.top/articles/2019/09/29/1569766340571.html)
 * [Linux（Centos7.6）中Redis的下载，启动，关闭，修改密码，外网访问](http://zyxwmj.top/articles/2019/09/18/1568791278084.html)
-* [Linux（Centos7.6）中下载Tomcat](http://zyxwmj.top/articles/2019/09/19/1568886350347.html)
 
 ### 热议
 
