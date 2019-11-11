@@ -5,7 +5,7 @@ Yi-Xing | Blog
 <h4 align="center">Don't give up and don't give in.</h4>
 <p align="center"><a title="Yi-Xing | Blog" target="_blank" href="https://github.com/Yi-Xing/solo-blog"><img src="https://img.shields.io/github/last-commit/Yi-Xing/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/Yi-Xing/solo-blog"><img src="https://img.shields.io/github/repo-size/Yi-Xing/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/Yi-Xing/solo-blog.svg"></a></p>
 
 ### 最新
@@ -45,14 +45,14 @@ Yi-Xing | Blog
 * [Nginx的nginx.conf文件的配置](http://zyxwmj.top/articles/2019/09/14/1568470865684.html)
 * [Java的按位运算与进制转换](http://zyxwmj.top/articles/2019/09/19/1568903092320.html)
 * [位运算——出现K次与出现1次（7）](http://zyxwmj.top/articles/2019/09/20/1568949925274.html)
-* [Linux（Centos7.6）常用的命令](http://zyxwmj.top/articles/2019/09/16/1568642673331.html)
 * [Linux（Centos7.6）中下载JDK](http://zyxwmj.top/articles/2019/09/19/1568884524004.html)
+* [Linux（Centos7.6）常用的命令](http://zyxwmj.top/articles/2019/09/16/1568642673331.html)
 * [位运算——找出落单的那个数（2）](http://zyxwmj.top/articles/2019/09/20/1568949052989.html)
+* [Linux（Centos7.6）中Redis的下载，启动，关闭，修改密码，外网访问](http://zyxwmj.top/articles/2019/09/18/1568791278084.html)
+* [Windows中下载MySQL](http://zyxwmj.top/articles/2019/09/16/1568616480019.html)
 * [Linux（Centos7.6）中下载Tomcat](http://zyxwmj.top/articles/2019/09/19/1568886350347.html)
 * [付出终将有所收获——程序人生](http://zyxwmj.top/articles/2019/09/22/1569115969401.html)
-* [Windows中下载MySQL](http://zyxwmj.top/articles/2019/09/16/1568616480019.html)
 * [懒惰散漫——程序人生](http://zyxwmj.top/articles/2019/09/29/1569766340571.html)
-* [Linux（Centos7.6）中Redis的下载，启动，关闭，修改密码，外网访问](http://zyxwmj.top/articles/2019/09/18/1568791278084.html)
 
 ### 热议
 
