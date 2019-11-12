@@ -11,6 +11,7 @@ Yi-Xing | Blog
 ### 最新
 
 * [重学Maven—— settings.xml 的配置](http://zyxwmj.top/articles/2019/11/06/1573018143484.html)
+* [重学Maven——使用 Nexus 搭建私服并上传下载 Jar 包](http://zyxwmj.top/articles/2019/11/04/1572866911213.html)
 * [花有重开日，人无再少年——程序人生](http://zyxwmj.top/articles/2019/11/03/1572789026683.html)
 * [重学Maven——pom.xml 的配置](http://zyxwmj.top/articles/2019/11/02/1572665261880.html)
 * [重学Maven——总结](http://zyxwmj.top/articles/2019/11/01/1572579880188.html)
@@ -29,7 +30,6 @@ Yi-Xing | Blog
 * [MySQL中存储过程和自定义函数](http://zyxwmj.top/articles/2019/10/14/1571010958142.html)
 * [立志要如山,行道要如水——程序人生](http://zyxwmj.top/articles/2019/10/13/1570937330509.html)
 * [MySQL中的视图和变量](http://zyxwmj.top/articles/2019/10/13/1570933069509.html)
-* [leetcode——495. 提莫攻击（中等）](http://zyxwmj.top/articles/2019/10/12/1570870630738.html)
 
 ### 热门
 
@@ -45,8 +45,8 @@ Yi-Xing | Blog
 * [Nginx的nginx.conf文件的配置](http://zyxwmj.top/articles/2019/09/14/1568470865684.html)
 * [Java的按位运算与进制转换](http://zyxwmj.top/articles/2019/09/19/1568903092320.html)
 * [位运算——出现K次与出现1次（7）](http://zyxwmj.top/articles/2019/09/20/1568949925274.html)
-* [Linux（Centos7.6）中下载JDK](http://zyxwmj.top/articles/2019/09/19/1568884524004.html)
 * [Linux（Centos7.6）常用的命令](http://zyxwmj.top/articles/2019/09/16/1568642673331.html)
+* [Linux（Centos7.6）中下载JDK](http://zyxwmj.top/articles/2019/09/19/1568884524004.html)
 * [位运算——找出落单的那个数（2）](http://zyxwmj.top/articles/2019/09/20/1568949052989.html)
 * [Linux（Centos7.6）中Redis的下载，启动，关闭，修改密码，外网访问](http://zyxwmj.top/articles/2019/09/18/1568791278084.html)
 * [Windows中下载MySQL](http://zyxwmj.top/articles/2019/09/16/1568616480019.html)
@@ -56,6 +56,7 @@ Yi-Xing | Blog
 
 ### 热议
 
+* [leetcode——495. 提莫攻击（中等）](http://zyxwmj.top/articles/2019/10/12/1570870630738.html)
 * [写爬虫一时爽，一直写爬虫一直爽——程序人生](http://zyxwmj.top/articles/2019/10/06/1570329733745.html)
 * [爬虫（仅自己可见）](http://zyxwmj.top/articles/2019/10/06/1570331508141.html)
 * [算法——目录](http://zyxwmj.top/articles/2019/10/07/1570409752516.html)
@@ -75,7 +76,6 @@ Yi-Xing | Blog
 * [leetcode——728. 自除数（简单）](http://zyxwmj.top/articles/2019/10/05/1570261044920.html)
 * [位运算——是不是2的整数次方（4）](http://zyxwmj.top/articles/2019/09/20/1568949466493.html)
 * [位运算——将整数二进制的奇偶位互换（5）](http://zyxwmj.top/articles/2019/09/20/1568949600235.html)
-* [位运算——0~1间浮点实数的二进制表示（6）](http://zyxwmj.top/articles/2019/09/20/1568949831331.html)
 
 ---
 
