@@ -11,6 +11,7 @@ Yi-Xing | Blog
 ### 最新
 
 * [位运算——基础练习](http://zyxwmj.top/articles/2019/11/13/1573654070912.html)
+* [排序——基础练习](http://zyxwmj.top/articles/2019/11/13/1573639140335.html)
 * [递归——基础练习](http://zyxwmj.top/articles/2019/11/13/1573637078579.html)
 * [重学Maven—— settings.xml 的配置](http://zyxwmj.top/articles/2019/11/06/1573018143484.html)
 * [重学Maven——使用 Nexus 搭建私服并上传下载 Jar 包](http://zyxwmj.top/articles/2019/11/04/1572866911213.html)
@@ -29,7 +30,6 @@ Yi-Xing | Blog
 * [MySQL中的分页查询和联合查询](http://zyxwmj.top/articles/2019/10/15/1571130817223.html)
 * [MySQL——目录](http://zyxwmj.top/articles/2019/10/15/1571130713804.html)
 * [MySQL中的流程控制结构](http://zyxwmj.top/articles/2019/10/14/1571022318180.html)
-* [MySQL中存储过程和自定义函数](http://zyxwmj.top/articles/2019/10/14/1571010958142.html)
 
 ### 热门
 
@@ -65,6 +65,7 @@ Yi-Xing | Blog
 * [leetcode——495. 提莫攻击（中等）](http://zyxwmj.top/articles/2019/10/12/1570870630738.html)
 * [MySQL中的视图和变量](http://zyxwmj.top/articles/2019/10/13/1570933069509.html)
 * [立志要如山,行道要如水——程序人生](http://zyxwmj.top/articles/2019/10/13/1570937330509.html)
+* [MySQL中存储过程和自定义函数](http://zyxwmj.top/articles/2019/10/14/1571010958142.html)
 * [MySQL中的分组查询](http://zyxwmj.top/articles/2019/10/08/1570521176176.html)
 * [ideal的常用快捷键](http://zyxwmj.top/articles/2019/09/26/1569490508934.html)
 * [Tomcat部署多个war包项目，以及jar包项目的部署](http://zyxwmj.top/articles/2019/09/20/1568968418136.html)
@@ -75,7 +76,6 @@ Yi-Xing | Blog
 * [爬虫（仅自己可见）](http://zyxwmj.top/articles/2019/10/06/1570331508141.html)
 * [MySQL的介绍和基本应用](http://zyxwmj.top/articles/2019/10/07/1570418776092.html)
 * [常见的HTTP状态码](http://zyxwmj.top/articles/2019/10/07/1570419554251.html)
-* [MySQL中的简单查询以及运算符和通配符](http://zyxwmj.top/articles/2019/10/07/1570442512413.html)
 
 ---
 
