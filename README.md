@@ -10,6 +10,7 @@ Yi-Xing | Blog
 
 ### 最新
 
+* [leetcode——153. 寻找旋转排序数组中的最小值（中等）](http://zyxwmj.top/articles/2019/11/16/1573897217279.html)
 * [如何评估算法性能](http://zyxwmj.top/articles/2019/11/15/1573812420701.html)
 * [位运算——基础练习](http://zyxwmj.top/articles/2019/11/13/1573654070912.html)
 * [排序——基础练习](http://zyxwmj.top/articles/2019/11/13/1573639140335.html)
@@ -29,7 +30,6 @@ Yi-Xing | Blog
 * [MySQL索引优化——Explain的应用](http://zyxwmj.top/articles/2019/10/16/1571211764479.html)
 * [MySQL中的索引及索引的优化](http://zyxwmj.top/articles/2019/10/16/1571194625812.html)
 * [MySQL中的分页查询和联合查询](http://zyxwmj.top/articles/2019/10/15/1571130817223.html)
-* [MySQL——目录](http://zyxwmj.top/articles/2019/10/15/1571130713804.html)
 
 ### 热门
 
@@ -52,7 +52,7 @@ Yi-Xing | Blog
 * [Linux（Centos7.6）中下载Tomcat](http://zyxwmj.top/articles/2019/09/19/1568886350347.html)
 * [MySQL中的流程控制结构](http://zyxwmj.top/articles/2019/10/14/1571022318180.html)
 * [Python的基础语法](http://zyxwmj.top/articles/2019/10/02/1570025762214.html)
-* [写爬虫一时爽，一直写爬虫一直爽——程序人生](http://zyxwmj.top/articles/2019/10/06/1570329733745.html)
+* [MySQL——目录](http://zyxwmj.top/articles/2019/10/15/1571130713804.html)
 
 ### 热议
 
@@ -74,8 +74,8 @@ Yi-Xing | Blog
 * [大学物理——力学（仅自己可见）](http://zyxwmj.top/articles/2019/09/26/1569507331521.html)
 * [位运算——使用位运算实现整数的四则运算](http://zyxwmj.top/articles/2019/09/28/1569642665346.html)
 * [leetcode——728. 自除数（简单）](http://zyxwmj.top/articles/2019/10/05/1570261044920.html)
+* [写爬虫一时爽，一直写爬虫一直爽——程序人生](http://zyxwmj.top/articles/2019/10/06/1570329733745.html)
 * [爬虫（仅自己可见）](http://zyxwmj.top/articles/2019/10/06/1570331508141.html)
-* [MySQL的介绍和基本应用](http://zyxwmj.top/articles/2019/10/07/1570418776092.html)
 
 ---
 
