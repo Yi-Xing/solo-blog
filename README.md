@@ -51,8 +51,8 @@ Yi-Xing | Blog
 * [付出终将有所收获——程序人生](http://zyxwmj.top/articles/2019/09/22/1569115969401.html)
 * [Linux（Centos7.6）中下载Tomcat](http://zyxwmj.top/articles/2019/09/19/1568886350347.html)
 * [MySQL中的流程控制结构](http://zyxwmj.top/articles/2019/10/14/1571022318180.html)
-* [Python的基础语法](http://zyxwmj.top/articles/2019/10/02/1570025762214.html)
 * [MySQL——目录](http://zyxwmj.top/articles/2019/10/15/1571130713804.html)
+* [Python的基础语法](http://zyxwmj.top/articles/2019/10/02/1570025762214.html)
 
 ### 热议
 
