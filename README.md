@@ -10,6 +10,7 @@ Yi-Xing | Blog
 
 ### 最新
 
+* [关于排序的练习题](http://zyxwmj.top/articles/2019/11/18/1574088001295.html)
 * [忙忙忙——程序人生](http://zyxwmj.top/articles/2019/11/17/1573982821404.html)
 * [leetcode——153. 寻找旋转排序数组中的最小值（中等）](http://zyxwmj.top/articles/2019/11/16/1573897217279.html)
 * [如何评估算法性能](http://zyxwmj.top/articles/2019/11/15/1573812420701.html)
@@ -29,7 +30,6 @@ Yi-Xing | Blog
 * [Java中泛型的应用](http://zyxwmj.top/articles/2019/10/24/1571882926981.html)
 * [知道的越多，不会的也就越多——程序人生](http://zyxwmj.top/articles/2019/10/20/1571562421540.html)
 * [MySQL索引优化——Explain的应用](http://zyxwmj.top/articles/2019/10/16/1571211764479.html)
-* [MySQL中的索引及索引的优化](http://zyxwmj.top/articles/2019/10/16/1571194625812.html)
 
 ### 热门
 
@@ -45,11 +45,11 @@ Yi-Xing | Blog
 * [Nginx的nginx.conf文件的配置](http://zyxwmj.top/articles/2019/09/14/1568470865684.html)
 * [Linux（Centos7.6）常用的命令](http://zyxwmj.top/articles/2019/09/16/1568642673331.html)
 * [Linux（Centos7.6）中下载JDK](http://zyxwmj.top/articles/2019/09/19/1568884524004.html)
+* [Linux（Centos7.6）中下载Tomcat](http://zyxwmj.top/articles/2019/09/19/1568886350347.html)
 * [Linux（Centos7.6）中Redis的下载，启动，关闭，修改密码，外网访问](http://zyxwmj.top/articles/2019/09/18/1568791278084.html)
 * [Windows中下载MySQL](http://zyxwmj.top/articles/2019/09/16/1568616480019.html)
 * [懒惰散漫——程序人生](http://zyxwmj.top/articles/2019/09/29/1569766340571.html)
 * [付出终将有所收获——程序人生](http://zyxwmj.top/articles/2019/09/22/1569115969401.html)
-* [Linux（Centos7.6）中下载Tomcat](http://zyxwmj.top/articles/2019/09/19/1568886350347.html)
 * [MySQL中的流程控制结构](http://zyxwmj.top/articles/2019/10/14/1571022318180.html)
 * [MySQL——目录](http://zyxwmj.top/articles/2019/10/15/1571130713804.html)
 * [Python的基础语法](http://zyxwmj.top/articles/2019/10/02/1570025762214.html)
@@ -67,6 +67,7 @@ Yi-Xing | Blog
 * [立志要如山,行道要如水——程序人生](http://zyxwmj.top/articles/2019/10/13/1570937330509.html)
 * [MySQL中存储过程和自定义函数](http://zyxwmj.top/articles/2019/10/14/1571010958142.html)
 * [MySQL中的分页查询和联合查询](http://zyxwmj.top/articles/2019/10/15/1571130817223.html)
+* [MySQL中的索引及索引的优化](http://zyxwmj.top/articles/2019/10/16/1571194625812.html)
 * [MySQL中的分组查询](http://zyxwmj.top/articles/2019/10/08/1570521176176.html)
 * [ideal的常用快捷键](http://zyxwmj.top/articles/2019/09/26/1569490508934.html)
 * [Tomcat部署多个war包项目，以及jar包项目的部署](http://zyxwmj.top/articles/2019/09/20/1568968418136.html)
@@ -75,7 +76,6 @@ Yi-Xing | Blog
 * [大学物理——力学（仅自己可见）](http://zyxwmj.top/articles/2019/09/26/1569507331521.html)
 * [位运算——使用位运算实现整数的四则运算](http://zyxwmj.top/articles/2019/09/28/1569642665346.html)
 * [leetcode——728. 自除数（简单）](http://zyxwmj.top/articles/2019/10/05/1570261044920.html)
-* [写爬虫一时爽，一直写爬虫一直爽——程序人生](http://zyxwmj.top/articles/2019/10/06/1570329733745.html)
 
 ---
 
