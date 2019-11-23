@@ -15,7 +15,6 @@ Yi-Xing | Blog
 * [leetcode——153. 寻找旋转排序数组中的最小值（中等）](http://zyxwmj.top/articles/2019/11/16/1573897217279.html)
 * [如何评估算法性能](http://zyxwmj.top/articles/2019/11/15/1573812420701.html)
 * [位运算——基础练习](http://zyxwmj.top/articles/2019/11/13/1573654070912.html)
-* [排序——基础练习](http://zyxwmj.top/articles/2019/11/13/1573639140335.html)
 * [递归——基础练习](http://zyxwmj.top/articles/2019/11/13/1573637078579.html)
 * [重学Maven—— settings.xml 的配置](http://zyxwmj.top/articles/2019/11/06/1573018143484.html)
 * [重学Maven——使用 Nexus 搭建私服并上传下载 Jar 包](http://zyxwmj.top/articles/2019/11/04/1572866911213.html)
@@ -30,6 +29,7 @@ Yi-Xing | Blog
 * [Java中泛型的应用](http://zyxwmj.top/articles/2019/10/24/1571882926981.html)
 * [知道的越多，不会的也就越多——程序人生](http://zyxwmj.top/articles/2019/10/20/1571562421540.html)
 * [MySQL索引优化——Explain的应用](http://zyxwmj.top/articles/2019/10/16/1571211764479.html)
+* [MySQL中的索引及索引的优化](http://zyxwmj.top/articles/2019/10/16/1571194625812.html)
 
 ### 热门
 
@@ -67,7 +67,6 @@ Yi-Xing | Blog
 * [立志要如山,行道要如水——程序人生](http://zyxwmj.top/articles/2019/10/13/1570937330509.html)
 * [MySQL中存储过程和自定义函数](http://zyxwmj.top/articles/2019/10/14/1571010958142.html)
 * [MySQL中的分页查询和联合查询](http://zyxwmj.top/articles/2019/10/15/1571130817223.html)
-* [MySQL中的索引及索引的优化](http://zyxwmj.top/articles/2019/10/16/1571194625812.html)
 * [MySQL中的分组查询](http://zyxwmj.top/articles/2019/10/08/1570521176176.html)
 * [ideal的常用快捷键](http://zyxwmj.top/articles/2019/09/26/1569490508934.html)
 * [Tomcat部署多个war包项目，以及jar包项目的部署](http://zyxwmj.top/articles/2019/09/20/1568968418136.html)
@@ -76,6 +75,7 @@ Yi-Xing | Blog
 * [大学物理——力学（仅自己可见）](http://zyxwmj.top/articles/2019/09/26/1569507331521.html)
 * [位运算——使用位运算实现整数的四则运算](http://zyxwmj.top/articles/2019/09/28/1569642665346.html)
 * [leetcode——728. 自除数（简单）](http://zyxwmj.top/articles/2019/10/05/1570261044920.html)
+* [写爬虫一时爽，一直写爬虫一直爽——程序人生](http://zyxwmj.top/articles/2019/10/06/1570329733745.html)
 
 ---
 
