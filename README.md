@@ -10,6 +10,7 @@ Yi-Xing | Blog
 
 ### 最新
 
+* [IntelliJ IDEA2019.3 最新破解方法](http://zyxwmj.top/articles/2019/11/29/1575034846254.html)
 * [多维数组和矩阵的相关算法题](http://zyxwmj.top/articles/2019/11/24/1574587705274.html)
 * [花式排序——程序人生](http://zyxwmj.top/articles/2019/11/24/1574583868033.html)
 * [关于排序的练习题](http://zyxwmj.top/articles/2019/11/18/1574088001295.html)
@@ -29,7 +30,6 @@ Yi-Xing | Blog
 * [Java中的内部类](http://zyxwmj.top/articles/2019/10/24/1571926812469.html)
 * [正则表达式](http://zyxwmj.top/articles/2019/10/24/1571886568190.html)
 * [Java中枚举的应用](http://zyxwmj.top/articles/2019/10/24/1571883525662.html)
-* [Java中泛型的应用](http://zyxwmj.top/articles/2019/10/24/1571882926981.html)
 
 ### 热门
 
@@ -47,8 +47,8 @@ Yi-Xing | Blog
 * [Linux（Centos7.6）中下载JDK](http://zyxwmj.top/articles/2019/09/19/1568884524004.html)
 * [Linux（Centos7.6）中下载Tomcat](http://zyxwmj.top/articles/2019/09/19/1568886350347.html)
 * [Linux（Centos7.6）中Redis的下载，启动，关闭，修改密码，外网访问](http://zyxwmj.top/articles/2019/09/18/1568791278084.html)
-* [Windows中下载MySQL](http://zyxwmj.top/articles/2019/09/16/1568616480019.html)
 * [MySQL——目录](http://zyxwmj.top/articles/2019/10/15/1571130713804.html)
+* [Windows中下载MySQL](http://zyxwmj.top/articles/2019/09/16/1568616480019.html)
 * [懒惰散漫——程序人生](http://zyxwmj.top/articles/2019/09/29/1569766340571.html)
 * [付出终将有所收获——程序人生](http://zyxwmj.top/articles/2019/09/22/1569115969401.html)
 * [MySQL中的流程控制结构](http://zyxwmj.top/articles/2019/10/14/1571022318180.html)
@@ -71,11 +71,11 @@ Yi-Xing | Blog
 * [MySQL中的分组查询](http://zyxwmj.top/articles/2019/10/08/1570521176176.html)
 * [MySQL索引优化——Explain的应用](http://zyxwmj.top/articles/2019/10/16/1571211764479.html)
 * [知道的越多，不会的也就越多——程序人生](http://zyxwmj.top/articles/2019/10/20/1571562421540.html)
+* [Java中泛型的应用](http://zyxwmj.top/articles/2019/10/24/1571882926981.html)
 * [ideal的常用快捷键](http://zyxwmj.top/articles/2019/09/26/1569490508934.html)
 * [Tomcat部署多个war包项目，以及jar包项目的部署](http://zyxwmj.top/articles/2019/09/20/1568968418136.html)
 * [MySQL中的连接查询](http://zyxwmj.top/articles/2019/10/09/1570615626823.html)
 * [辅助开发的在线工具以及图片资源](http://zyxwmj.top/articles/2019/09/26/1569491501344.html)
-* [大学物理——力学（仅自己可见）](http://zyxwmj.top/articles/2019/09/26/1569507331521.html)
 
 ---
 
