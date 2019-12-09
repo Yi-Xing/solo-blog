@@ -10,6 +10,7 @@ Yi-Xing丨Blog
 
 ### 最新
 
+* [迷失在微信开发文档中——程序人生](http://zyxwmj.top/articles/2019/12/08/1575799755689.html)
 * [IntelliJ IDEA2019.3 最新破解方法](http://zyxwmj.top/articles/2019/11/29/1575034846254.html)
 * [多维数组和矩阵的相关算法题](http://zyxwmj.top/articles/2019/11/24/1574587705274.html)
 * [花式排序——程序人生](http://zyxwmj.top/articles/2019/11/24/1574583868033.html)
@@ -29,7 +30,6 @@ Yi-Xing丨Blog
 * [Java中的正则表达式](http://zyxwmj.top/articles/2019/10/24/1571926946969.html)
 * [Java中的内部类](http://zyxwmj.top/articles/2019/10/24/1571926812469.html)
 * [正则表达式](http://zyxwmj.top/articles/2019/10/24/1571886568190.html)
-* [Java中枚举的应用](http://zyxwmj.top/articles/2019/10/24/1571883525662.html)
 
 ### 热门
 
@@ -43,8 +43,8 @@ Yi-Xing丨Blog
 * [Linux（Centos7.6）中Docker的介绍、安装、运行、挂载、卸载](http://zyxwmj.top/articles/2019/09/15/1568540312622.html)
 * [Java的按位运算与进制转换](http://zyxwmj.top/articles/2019/09/19/1568903092320.html)
 * [Nginx的nginx.conf文件的配置](http://zyxwmj.top/articles/2019/09/14/1568470865684.html)
-* [Linux（Centos7.6）中下载JDK](http://zyxwmj.top/articles/2019/09/19/1568884524004.html)
 * [Linux（Centos7.6）常用的命令](http://zyxwmj.top/articles/2019/09/16/1568642673331.html)
+* [Linux（Centos7.6）中下载JDK](http://zyxwmj.top/articles/2019/09/19/1568884524004.html)
 * [Linux（Centos7.6）中下载Tomcat](http://zyxwmj.top/articles/2019/09/19/1568886350347.html)
 * [MySQL——目录](http://zyxwmj.top/articles/2019/10/15/1571130713804.html)
 * [Linux（Centos7.6）中Redis的下载，启动，关闭，修改密码，外网访问](http://zyxwmj.top/articles/2019/09/18/1568791278084.html)
@@ -72,10 +72,10 @@ Yi-Xing丨Blog
 * [MySQL索引优化——Explain的应用](http://zyxwmj.top/articles/2019/10/16/1571211764479.html)
 * [知道的越多，不会的也就越多——程序人生](http://zyxwmj.top/articles/2019/10/20/1571562421540.html)
 * [Java中泛型的应用](http://zyxwmj.top/articles/2019/10/24/1571882926981.html)
+* [Java中枚举的应用](http://zyxwmj.top/articles/2019/10/24/1571883525662.html)
 * [ideal的常用快捷键](http://zyxwmj.top/articles/2019/09/26/1569490508934.html)
 * [Tomcat部署多个war包项目，以及jar包项目的部署](http://zyxwmj.top/articles/2019/09/20/1568968418136.html)
 * [MySQL中的连接查询](http://zyxwmj.top/articles/2019/10/09/1570615626823.html)
-* [辅助开发的在线工具以及图片资源](http://zyxwmj.top/articles/2019/09/26/1569491501344.html)
 
 ---
 
